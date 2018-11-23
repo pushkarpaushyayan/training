@@ -4,13 +4,14 @@ public class MainClass {
 
 	public static void main(String[] args) {
 	
-		System.out.println("Welcome Veere");
+		System.out.println("Welcome !");
 		greetings();
 	
 	}
 
 	private static void greetings() {
-		System.out.println("Good Evening!");
+		System.out.print("Good Evening!\t");
+		System.out.println("Tom");
 		
 	}
 
